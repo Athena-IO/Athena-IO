@@ -17,7 +17,7 @@ Currently learning, building, and looking for teams to collaborate with!
 
 ## 🛠️ Top Skills
 
-- **Frontend:** Vue, Nuxt
+- **Frontend:** Vue, Nuxt,tailwind , css , bootstrap , javascript
 - **Backend:** Java
 - **Game Development:** C++, Unreal Engine
 
